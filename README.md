@@ -14,11 +14,14 @@ Well, this is no longer a dream, It could be your next DIY project! In this tuto
 
 ## Hardware components:
 1 x Particle Photon
+
 1 x Relay
+
 1 x LED Strip
 
 ## Software components:
 Online particle IDE or particle Dev
+
 Blynk app
 
 
