@@ -1,6 +1,6 @@
 
 ![alt text][logo]
-[logo]: https://s31.postimg.org/px97oxauj/Untitled.jpg "Logo Title Text 2"
+[logo]: https://www.dropbox.com/preview/CoverPhoto.jpg "Logo Title Text 2"
 
 
 ## Overview :
