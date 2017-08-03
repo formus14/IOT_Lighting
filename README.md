@@ -2,7 +2,7 @@
 ![alt text][logo]
 
 
-[logo]: https://www.dropbox.com/s/5aec2ly6wdksyue/CoverPhoto.jpg?dl=0 "Logo Title Text 2"
+[logo]: https://www.dropbox.com/s/5aec2ly6wdksyue/CoverPhoto.jpg?dl=0 "Logo Title Text 1"
 
 
 ## Overview :
